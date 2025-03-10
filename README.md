@@ -1,3 +1,6 @@
+백준 단계별로 풀어보기
+1. 입출력과 사칙연산
+
 https://www.acmicpc.net/step/1
 
 ![image](https://github.com/user-attachments/assets/8adf7436-ee4f-4fd5-9a4b-0ec7e564f7ef)
